@@ -1,0 +1,200 @@
+body {
+	font-size: 1em;
+}
+
+table {
+	font-size: 1em;
+}
+
+#home {
+	height: 100%;
+}
+
+#copyright {
+	font-size: .8em;
+	bottom: 0px;
+	right: 2px;
+}
+
+#title {
+	font-size: 4em; 
+}
+
+#bigContainer {
+	width: 80%;
+	left: 160px;
+	height: 90vh;
+}
+
+#topBar {
+	width:100%;
+	left: 0%;
+	height: 10vh;
+}
+
+#mileForm {
+	height: 0px;
+}
+
+.Link {
+	font-size: 1.5em;
+}
+
+.recordsTableCategory {
+	width: 20%;
+}
+
+.recordsTableRecord {
+	width: 40%;
+}
+
+#statsShoeTable {
+}
+
+#statsTotalMiles {
+	left: 25%; 
+}
+
+#weekFirstCol {
+	width: 200px;
+}
+
+#mileFirstCol {
+	width: 100px;
+}
+
+#formContainer {
+	font-size: 30px; 
+	height: 92px; 
+	width: 10%; 
+	right: 0px;
+}
+
+
+
+#mileEntryMileCount {
+	width: 50px; 
+	height: 35px;
+}
+
+#mileEntryComments {
+	height: 75px; 
+	width: 100%;
+}
+
+#littleContainer.mileEntry {
+	height: 100%;
+	width: 50%;
+	margin-left: 25%;
+	font-size: 35px;
+}
+
+#raceTimeHours {
+	width: 50px;
+}
+
+.form2 {
+	top: 40px;
+}
+
+.form3 {
+	top: 80px;
+}
+
+.form4 {
+	top: 120px;
+}
+
+.form5 {
+	top: 160px;
+}
+
+.form6 {
+	top: 200px;
+}
+
+.form7 {
+	top: 240px;
+}
+
+.form8 {
+	top: 280px;
+}
+
+.form9 {
+	top: 320px;
+}
+
+.inputBox {
+	height: 35px;
+}
+
+#mileEntryCommentContainer {
+	width: 40%;
+}
+
+#div1 {
+}
+
+#mileEntryMinutes {
+	top: -5px;
+	width: 40px;
+	height: 35px;
+}
+
+#mileEntrySeconds {
+	top: -5px; 
+	width:40px; 
+	height:35px;
+}
+
+#mileChartSelect {
+	height: 100%; 
+	font-size: 1em;
+}
+
+.text {
+	left: 30%;
+	line-height: 35px;
+	height: 35px;
+	font-size: 35px;
+}
+
+.form {
+	right: 30%;
+	height: 35px;
+	line-height: 35px;
+	font-size: 35px;
+}
+
+#copyright.homepage {
+	bottom: 5px; 
+	right: 2%; 
+}
+
+.header.homepage {
+	bottom: 63%;
+	right: 66%;
+	font-size: 72px;
+}
+
+.subtitle.homepage {
+	left: 25%;
+	font-size: 60px;
+}
+
+#greetingBox.homepage {
+	font-size: 30px;
+	top: 4%;
+	min-width: 200px;
+	width: 20%;
+	right: 5%;
+}
+
+#linksBox.homepage {
+	font-size: 30px;
+	top: 60%;
+	width: 410px;
+	left:60%;
+}
+

@@ -1,0 +1,239 @@
+body {
+	font-size: .75em;
+}
+
+table {
+	font-size: 10px;
+}
+
+#home {
+	width: 12%;
+	min-width: 75px;
+}
+
+#copyright {
+	font-size: 2.5vw;
+	bottom: 0px;
+	right: 2px;
+}
+
+#title {
+	font-size: 2.5em;
+	width: 90%;
+}
+
+#bigContainer {
+	width: 100%;
+	left: 0%;
+}
+
+#leftAd {
+	display: none;
+}
+
+#rightAd {
+	display: none;
+}
+
+#topBar {
+	width:100%;
+	left: 0%;
+}
+
+#mileForm {
+	height: 0px;
+}
+
+.Link {
+	font-size: 1em;
+}
+
+.recordsTableCategory {
+	width: 20%;
+}
+
+.recordsTableRecord {
+	width: 40%;
+}
+
+#statsShoeTable {
+}
+
+#statsTotalMiles {
+	left: 30%;
+	
+}
+
+#weekFirstCol {
+	width: 200px;
+}
+
+#mileFirstCol {
+	width: 100px;
+}
+
+#formContainer {
+	z-index: 1;
+	font-size: 0px; 
+	height: 51px;
+	top: 0px;
+	width: 50%; 
+	left: 107%;
+}
+
+#mileEntryMileCount {
+	width: 50px; 
+	height: 25px;
+}
+
+#mileEntryComments {
+	height: 75px; 
+	width: 100%;
+}
+
+#littleContainer.mileEntry {
+	height: 100%;
+	width: 100%;
+}
+
+.form2 {
+	top: 40px;
+}
+
+.form3 {
+	top: 80px;
+}
+
+.form4 {
+	top: 120px;
+}
+
+.form5 {
+	top: 160px;
+}
+
+.form6 {
+	top: 200px;
+}
+
+.form7 {
+	top: 240px;
+}
+
+.form8 {
+	top: 280px;
+}
+
+.inputBox {
+	height: 25px;
+}
+
+#mileEntryCommentContainer {
+	width: 100%;
+}
+
+#div1 {
+	top: 0px;
+	right: 95px;
+}
+
+#mileEntryMinutes {
+	top: -5px;
+	width: 40px;
+	height: 25px;
+}
+
+#mileEntrySeconds {
+	top: -5px; 
+	width: 40px; 
+	height: 25px;
+}
+
+#mileChartPerson {
+	width: 100%; 
+	height: 100%; 
+}
+
+#mileChartSelect {
+	height: 49%; 
+	width: 97%;
+}
+
+#mileChartSubmit {
+	height: 49%; 
+}
+
+
+.text {
+	left: 0%;
+	line-height: 25px;
+	height: 25px;
+	font-size: 25px;
+	margin: 0px;
+}
+
+.form {
+	right: 0%;
+	height: 25px;
+	line-height: 25px;
+	font-size: 25px;
+	margin: 0px;
+}
+
+#newShoeBox {
+	width: 70px;
+}
+
+#bigContainer.mileTable {
+	width: 200%;
+}
+
+#topBar.mileTable {
+	width: 200%;
+}
+
+#title.mileChart {
+	left: 15%;
+	width: 35%;
+	top: 10px;
+}
+
+.mileTable {
+	table-layout: fixed; 
+	text-align: center;
+}
+
+.recordsTable {
+	text-align:center; 
+	width: 100%;
+}
+
+#copyright.homepage {
+	bottom: 5px; 
+	right: 2%; 
+}
+
+.header.homepage {
+	top: -2%;
+	right: 25%;
+	font-size: 32px;
+}
+
+.subtitle.homepage {
+	left: 25%;
+	font-size: 26px;
+}
+
+#greetingBox.homepage {
+	font-size: 20px;
+	bottom: 22%;
+	min-width: 100px;
+	width: 20%;
+	right: 5%;
+}
+#linksBox.homepage {
+	font-size: 20px;
+	bottom: 0px;
+	width: 100%;
+	left: 0px;
+}
